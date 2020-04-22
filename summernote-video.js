@@ -1,4 +1,3 @@
-/* https://github.com/DiemenDesign/summernote-video */
 (function (factory) {
     if (typeof define === 'function' && define.amd) {
         define(['jquery'], factory);
